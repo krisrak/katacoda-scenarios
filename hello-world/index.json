@@ -5,9 +5,8 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Docker",
-      "text": "step1.md",
-      "code": "hello.sh"
+      "title": "Hello C++",
+      "text": "step1.md"
     }],
     "assets": {
        "host01": [
