@@ -9,6 +9,11 @@
       "text": "step1.md",
       "code": "hello.sh"
     }],
+    "assets": {
+       "host01": [
+         {"file": "hello.cpp", "target": "/root", "chmod": "+x"}
+       ]
+    },
     "intro": {
       "text": "intro.md",
       "credits": ""
