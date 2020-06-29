@@ -13,4 +13,5 @@ int main(){
 }
 ```
 
+`./hello.sh`{{execute}}
 
