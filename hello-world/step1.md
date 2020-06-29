@@ -1,7 +1,16 @@
-This is your first step.
+Compile a simple C++ code on Ubuntu image
 
-## Task
+## Hello World in C++
 
-This is an _example_ of creating a scenario and running a **command**
+This is an _example_ of "Hello World" in C++
 
-`echo 'Hello World'`{{execute}}
+```
+#include <iostream>
+
+int main(){
+        std::cout << "Hello World\n";
+        return 0;
+}
+```
+
+
