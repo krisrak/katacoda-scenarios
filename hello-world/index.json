@@ -11,7 +11,8 @@
     }],
     "assets": {
        "host01": [
-         {"file": "hello.cpp", "target": "/root", "chmod": "+x"}
+         {"file": "hello.cpp", "target": "/root", "chmod": "+x"},
+         {"file": "hello.sh", "target": "/root", "chmod": "+x"}
        ]
     },
     "intro": {
