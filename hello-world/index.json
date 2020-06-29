@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Hello World",
+  "description": "Compile and Run Hello World on Docker Image",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
